@@ -173,3 +173,265 @@ input {
     border-radius: 2px;
     box-shadow: 0px 1px 1px 0 rgba(0, 0, 0, .1);
 }
+
+#estimate-results {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: rgb(128, 128, 128);
+    position: relative;
+    margin-top: 108px;
+    left: 166px;
+    width: 270px;
+    height: 15px;
+}
+
+.res {
+    position: relative;
+    top: 23px;
+    left: 166px;
+    width: 600px;
+    height: auto;
+}
+
+.search-title {
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    color: #2F0DAB;
+    text-decoration: none;
+}
+
+.search-title:hover {
+    text-decoration: underline;
+}
+
+.res-link {
+    position: relative;
+    top: -10px;
+}
+
+.search-link,
+.arrow {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #1F6621;
+    text-decoration: none;
+}
+
+.arrow {
+    position: relative;
+    top: 8px;
+    left: -5px;
+}
+
+.translate {
+    position: relative;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #2F0DAB;
+    text-decoration: none;
+    left: -10px;
+}
+
+.description {
+    position: relative;
+    color: rgb(84, 84, 84);
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    top: 1px;
+}
+
+.translate:hover {
+    text-decoration: underline;
+}
+
+.match {
+    font-weight: bold;
+}
+
+#box {
+    position: relative;
+    top: 15px;
+    left: 30px;
+    height: 212px;
+    width: 515px;
+    font-family: arial, sans-serif;
+}
+
+#left-box {
+    top: -2px;
+    left: -2px;
+    position: absolute;
+}
+
+#right-box {
+    float: right;
+    margin-top: -2px;
+    margin-left: -5px;
+}
+
+.box-desc {
+    font-size: 13px;
+    position: relative;
+    width: 210px;
+    height: 50px;
+}
+
+.more-results {
+    position: relative;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #2F0DAB;
+    text-decoration: none;
+    top: 205px;
+    left: -2px;
+}
+
+.block-02 {
+    position: relative;
+    top: 41px;
+}
+
+.search-link02 {
+    position: relative;
+    top: -10px;
+}
+
+.arrow02 {
+    position: relative;
+    top: -3px;
+    left: -5px;
+}
+
+.date {
+    color: #8F808B;
+}
+
+.box-desc02 {
+    top: -9px;
+    width: 600px;
+    height: 52px;
+}
+
+.more-searches {
+    position: relative;
+    top: 75px;
+    left: 166px;
+    width: 600px;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    color: rgb(34, 34, 34);
+}
+
+#more-links {
+    position: relative;
+    top: 98px;
+    left: 166px;
+    width: 226px;
+    height: 70px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+#links00 {
+    position: absolute;
+    width: 150px;
+    height: 70px;
+}
+
+#links01 {
+    float: right;
+}
+
+.extras {
+    color: #2F0DAB;
+    text-decoration: none;
+}
+
+.extras:hover,
+.next:hover {
+    text-decoration: underline;
+}
+
+.bot-links {
+    padding-bottom: 10px;
+}
+
+.nav {
+    text-align: center;
+    padding: 0;
+    vertical-align: top;
+}
+
+.nav00 {
+    /*G*/
+    background-image: url('/assets/images/nav_logo242.png');
+    background-repeat: no-repeat;
+    background-position: -24px 0;
+    width: 28px;
+    height: 40px;
+    display: block;
+    vertical-align: top;
+}
+
+.nav01 {
+    /*O red*/
+    background-image: url('/assets/images/nav_logo242.png');
+    background-repeat: no-repeat;
+    background-position: -53px 0;
+    width: 20px;
+    height: 40px;
+    display: block;
+}
+
+.nav02 {
+    /*O yellow*/
+    background-image: url('/assets/images/nav_logo242.png');
+    background-repeat: no-repeat;
+    background-position: -73px 0;
+    width: 20px;
+    height: 40px;
+    display: block;
+}
+
+.nav03 {
+    /*G*/
+    background-image: url('/assets/images/nav_logo242.png');
+    background-repeat: no-repeat;
+    background-position: -96px 0;
+    width: 72px;
+    height: 40px;
+    display: block;
+}
+
+.navend span:nth-child(2) {
+    margin-left: 52px;
+}
+
+.pages {
+    text-decoration: none;
+    color: #5B95F5;
+}
+
+.pages: hover {
+    text-decoration: underline;
+}
+
+.pages00 {
+    color: #5F5F5F;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.ggl-search {
+    width: 600px;
+    margin-left: 165px;
+    margin-bottom: 34px;
+}
