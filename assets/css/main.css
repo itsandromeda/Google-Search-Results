@@ -365,7 +365,7 @@ input {
 
 .nav00 {
     /*G*/
-    background-image: url('/assets/images/nav_logo242.png');
+    background-image: url('/assets/images/navlogo242.png');
     background-repeat: no-repeat;
     background-position: -24px 0;
     width: 28px;
@@ -376,7 +376,7 @@ input {
 
 .nav01 {
     /*O red*/
-    background-image: url('/assets/images/nav_logo242.png');
+    background-image: url('/assets/images/navlogo242.png');
     background-repeat: no-repeat;
     background-position: -53px 0;
     width: 20px;
@@ -386,7 +386,7 @@ input {
 
 .nav02 {
     /*O yellow*/
-    background-image: url('/assets/images/nav_logo242.png');
+    background-image: url('/assets/images/navlogo242.png');
     background-repeat: no-repeat;
     background-position: -73px 0;
     width: 20px;
@@ -396,7 +396,7 @@ input {
 
 .nav03 {
     /*G*/
-    background-image: url('/assets/images/nav_logo242.png');
+    background-image: url('/assets/images/navlogo242.png');
     background-repeat: no-repeat;
     background-position: -96px 0;
     width: 72px;
